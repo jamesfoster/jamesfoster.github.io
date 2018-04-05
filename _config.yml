@@ -3,10 +3,10 @@ server: true
 permalink: /:year/:month/:day/:title
 pygments: true
 
-name: Temp
+name: James Foster
 author: James Foster
-title: Test
-description: testing
+title: Move along
+description: Nothing to see here
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
