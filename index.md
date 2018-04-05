@@ -1,7 +1,5 @@
 ### Welcome
-This is a dummy page...
-
-Hmmm
+This is a dummy page
 
 ```
 this is some code
