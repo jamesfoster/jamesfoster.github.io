@@ -1,0 +1,7 @@
+<ul>
+{% for project in site.projects %}
+  <li>
+    <a href="{{ project.url }}" title="{{ project.date | date: '%Y-%m-%d'}}">{{ project.title }}</a>
+  </li>
+{% endfor %}
+</ul>
