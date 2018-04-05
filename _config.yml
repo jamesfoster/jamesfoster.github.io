@@ -5,3 +5,8 @@ pygments: true
 
 name: Temp
 author: James Foster
+title: Test
+description: testing
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
