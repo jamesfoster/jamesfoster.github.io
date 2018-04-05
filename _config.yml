@@ -9,4 +9,5 @@ title: Move along
 description: Nothing to see here
 google_analytics: 
 show_downloads: false
+show_view_on_github: false
 theme: jekyll-theme-hacker
