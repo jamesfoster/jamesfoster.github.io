@@ -13,7 +13,8 @@ show_view_on_github: false
 theme: jekyll-theme-hacker
 
 collections:
-  - projects
+  projects:
+    output: true
 
 defaults:
   - scope:
