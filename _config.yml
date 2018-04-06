@@ -1,8 +1,7 @@
 auto: true
 server: true
-permalink: /:year/:month/:day/:title
-pygments: true
 
+highlighter: rouge
 name: James Foster
 author: James Foster
 title: Move along
