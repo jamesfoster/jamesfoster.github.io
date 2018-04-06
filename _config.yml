@@ -11,3 +11,13 @@ google_analytics:
 show_downloads: false
 show_view_on_github: false
 theme: jekyll-theme-hacker
+
+collections:
+  - projects
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
